@@ -1,0 +1,21 @@
+.container {
+    border: 2px solid black;
+    border-radius: 15%;
+    width: 15%;
+    padding: 1%;
+}
+
+input {
+    border: 1px solid orangered;
+}
+
+.bouton {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 20%;
+}
+
+.bouton:hover {
+    cursor: pointer;
+}
